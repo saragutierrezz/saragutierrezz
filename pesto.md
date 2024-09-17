@@ -12,4 +12,4 @@
 
 # resultado
 
-![foto de la salsa de pesto]()
+![foto de la salsa de pesto](https://github.com/saragutierrezz/saragutierrezz/blob/main/pesto.jfif)
